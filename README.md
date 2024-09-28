@@ -1,1 +1,1 @@
-# odin-recipes
+Hiii, so this is like the third time I try this and I'm sure that I got it now hehe. This is the README file of my first project ever, the recipe website! It'll be ugly as fuck but I'm going to drill the very basics of html, which is cool B)
